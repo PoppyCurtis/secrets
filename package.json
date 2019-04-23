@@ -1,0 +1,24 @@
+{
+  "name": "secrets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoppyCurtis/secrets.git"
+  },
+  "author": "Poppy Curtis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoppyCurtis/secrets/issues"
+  },
+  "homepage": "https://github.com/PoppyCurtis/secrets#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
